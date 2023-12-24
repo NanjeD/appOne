@@ -1,2 +1,2 @@
-@Library('shared-library') _
+@Library('demo-lib') _
 firstApp 'https://github.com/NanjeD/appOne.git'
